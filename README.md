@@ -26,10 +26,9 @@ Install all required packages :
   ```
 <!-- THE DATASET -->
 ## <br>**The Dataset**
-The IMDb dataset refers to a collection of data with 50,000 records compiled and provided by IMDb (Internet Movie Database), one of the most comprehensive online databases of movies, TV shows, actors, and production crew information.<br>
+The IMDb dataset refers to a collection of data with 50,000 records compiled and provided by IMDb (Internet Movie Database), one of the most comprehensive online databases of movies, TV shows, actors, and production crew information.
 and a target column "sentiment" which describe the sentiment of the viewer about the movie either it is positive or negative<br>
-<br>**Dataset features and target :**<br>
-![](Images/Dataset_Columns.png)<br>
+
 <br>**Dataset head :**<br>
 ![](Images/dataset_head.png)
 
