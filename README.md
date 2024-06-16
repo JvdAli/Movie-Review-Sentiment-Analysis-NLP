@@ -70,10 +70,13 @@ Finally we evaluate the model by getting accuracy score .
 Now let's see the project output after running the code :
 
 **Dataset head :**<br>
-![](/Images/Output_1_Dataset_Head.png)<br><br>
+![](/Images/dataset_head.png)<br><br>
+
+**Dataset distribution :**<br>
+![](/Images/Data_distrubtion.png)<br><br>
 
 **Dataset after output encoding :**<br>
-![](/Images/Output_2_Dataset_After_Encoding.png)<br><br>
+![](/Images/dataset_after_encoding.png)<br><br>
 
 **Review sample after removing HTML tags :**<br>
 ![](/Images/Output_3_Review_After_Remove_HTML.png)<br><br>
