@@ -26,8 +26,8 @@ Install all required packages :
   ```
 <!-- THE DATASET -->
 ## <br>**The Dataset**
-The IMDb dataset refers to a collection of data with 50,000 records compiled and provided by IMDb (Internet Movie Database), one of the most comprehensive online databases of movies, TV shows, actors, and production crew information.
-and a target column "sentiment" which describe the sentiment of the viewer about the movie either it is positive or negative<br>
+The IMDb dataset refers to a collection of data with 50,000 records compiled and provided by IMDb (Internet Movie Database).
+Review columns shows reviews of the viewers and a target column represent their "sentiment" about the movie, either it is positive or negative<br>
 
 <br>**Dataset head :**<br>
 ![](Images/dataset_head.png)
@@ -40,7 +40,7 @@ In this part we will see the project code divided to sections as follows:
 In this section we aim to do some operations on the dataset before training the model on it,
 <br>processes like :
   - Loading the dataset
-  - Encoding ouput to binary (Positive : 1 , Negative : 0) 
+  - Encoding Target columns(sentiment) to binary (Positive : 1 , Negative : 0) 
   - Data cleaning : Remove HTML tags
   - Data cleaning : Remove special characters
   - Data cleaning : Convert everything to lowercase
