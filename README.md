@@ -42,6 +42,7 @@ In this section we aim to do some operations on the dataset before training the 
   - Loading the dataset
   - Encoding Target columns(sentiment) to binary (Positive : 1 , Negative : 0) 
   - Data cleaning : Remove HTML tags
+  - Data cleaning : Remove punctuation
   - Data cleaning : Remove special characters
   - Data cleaning : Convert everything to lowercase
   - Data cleaning : Remove stopwords
@@ -50,8 +51,8 @@ In this section we aim to do some operations on the dataset before training the 
 - Section 2 | Model Creation :<br>
 The dataset is ready for training, so we create a Naive Bayes model using scikit-learn and then fit it to the data.<br>
 
-- Section 3 | Model Evaluation :<br>
-Finally we evaluate the model by getting accuracy, classification report and confusion matrix.
+- Section 3 | Model Accuracy Check :<br>
+Finally we evaluate the model by getting accuracy score .
 
 <!-- INSTALLATION -->
 ## <br>**Installation**
