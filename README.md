@@ -57,7 +57,7 @@ Finally we evaluate the model by getting accuracy, classification report and con
 ## <br>**Installation**
 1. Clone the repo
    ```sh
-   git clone https://github.com/omaarelsherif/Movie-Reviews-Sentiment-Analysis-Using-Machine-Learning.git
+   git clone https:https://github.com/JvdAli/Movie-Review-Sentiment-Analysis-NLP.git
    ```
 2. Run the code from cmd
    ```sh
