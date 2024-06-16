@@ -3,7 +3,7 @@ Sentiment Analysis of movie reviews -IMDb dataset- 50K reviews(Positive &amp; Ne
 
 <!-- HEADER -->
 <p align="center">
-  <img src="Images/Movies_Header.jpg"/>
+  <img src="Images/header_image.png"/>
 </p>
 
 <!-- PROJECT DESCRIPTION -->
