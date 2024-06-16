@@ -10,11 +10,11 @@ Sentiment Analysis of movie reviews -IMDb dataset- 50K reviews(Positive &amp; Ne
 </p>
 
 <!-- PROJECT DESCRIPTION -->
-## <br>**➲ Project description**
-Movie reviews sentiment analysis is a project which is based on natural language processing, where we use NLP techniques to extract useful words of each review and based on these words we can use binary classification to predict the movie sentiment if it's positive or negative
+## <br>** Project description**
+Movie reviews sentiment analysis is a project which is based on natural language processing, where we use NLP techniques to extract useful words of each review and based on these words we can use binary classification to predict the movie sentiment if it is positive or negative.
 
 <!-- PREREQUISTIES -->
-## <br>**➲ Prerequisites**
+## <br>**Prerequisites**
 This is list of required packages and modules for the project to be installed :
 * <a href="https://www.python.org/downloads/" target="_blank">Python 3.x</a>
 * Pandas 
@@ -28,7 +28,7 @@ Install all required packages :
   pip install -r requirements.txt
   ```
 <!-- THE DATASET -->
-## <br>**➲ The Dataset**
+## <br>** The Dataset**
 Human activites dataset contain about 50000 record which is a sample of movie's review<br>
 and a target column "sentiment" which describe the sentiment of the viewer about the movie either it is positove or negative<br>
 <br>**Dataset features and target :**<br>
@@ -37,7 +37,7 @@ and a target column "sentiment" which describe the sentiment of the viewer about
 ![](Images/Dataset_Head.png)
 
 <!-- CODING SECTIONS -->
-## <br>**➲ Coding Sections**
+## <br>** Coding Sections**
 In this part we will see the project code divided to sections as follows:
 <br>
 
@@ -59,7 +59,7 @@ The dataset is ready for training, so we create a Naive Bayes model using scikit
 Finally we evaluate the model by getting accuracy, classification report and confusion matrix.
 
 <!-- INSTALLATION -->
-## <br>**➲ Installation**
+## <br>** Installation**
 1. Clone the repo
    ```sh
    git clone https://github.com/omaarelsherif/Movie-Reviews-Sentiment-Analysis-Using-Machine-Learning.git
@@ -70,7 +70,7 @@ Finally we evaluate the model by getting accuracy, classification report and con
    ```
 
 <!-- OUTPUT -->
-## <br>**➲ Output**
+## <br>** Output**
 Now let's see the project output after running the code :
 
 **Dataset head :**<br>
@@ -101,7 +101,7 @@ Now let's see the project output after running the code :
 ![](/Images/Output_9_Models_Accuracy.png)<br>
 
 <!-- REFERENCES -->
-## <br>**➲ References**
+## <br>** References**
 These links may help you to better understanding of the project idea and techniques used :
 1. Natural Language Processing (NLP) : https://ibm.co/38bN03T
 2. Sentiment analysis : https://bit.ly/3yi9BGq
@@ -109,8 +109,8 @@ These links may help you to better understanding of the project idea and techniq
 4. Model evaluation : https://bit.ly/3B12VOO
 
 <!-- CONTACT -->
-## <br>**➲ Contact**
-- E-mail   : [omaarelsherif@gmail.com](mailto:omaarelsherif@gmail.com)
-- LinkedIn : https://www.linkedin.com/in/omaarelsherif/
-- Facebook : https://www.facebook.com/omaarelshereif
+## <br>** Contact**
+- E-mail   : [jvdali.e@gmail.com](mailto:jvdali.e@gmail.com)
+
+
 
