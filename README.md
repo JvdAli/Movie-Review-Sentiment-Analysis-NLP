@@ -7,7 +7,7 @@ Sentiment Analysis of movie reviews -IMDb dataset- 50K reviews(Positive &amp; Ne
 </p>
 
 <!-- PROJECT DESCRIPTION -->
-## <br>** Project description**
+## <br>**Project description**
 Movie reviews sentiment analysis is a project which is based on natural language processing, where we use NLP techniques to extract useful words of each review and based on these words we can use binary classification to predict the movie sentiment if it is positive or negative.
 
 <!-- PREREQUISTIES -->
