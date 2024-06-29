@@ -75,29 +75,6 @@ Now let's see the project output after running the code :
 **Dataset distribution :**<br>
 ![](/Images/Data_distrubtion.png)<br><br>
 
-**Dataset after output encoding :**<br>
-![](/Images/dataset_after_encoding.png)<br><br>
-
-**Review sample after removing HTML tags :**<br>
-![](/Images/Output_3_Review_After_Remove_HTML.png)<br><br>
-
-**Review sample after removing special characters :**<br>
-![](/Images/Output_4_Review_After_Remove_Special_Chars.png)<br><br>
-
-**Review sample after converting words to lowercase :**<br>
-![](/Images/Output_5_Review_After_Converting_To_Lowercase.png)<br><br>
-
-**Review sample after removing stopwords :**<br>
-![](/Images/Output_6_Review_After_Remove_Stopwords.png)<br><br>
-
-**Review sample after stemming words :**<br>
-![](/Images/Output_7_Review_After_Stemming_Words.png)<br><br>
-
-**Bag Of Words "BOW" :**<br>
-![](/Images/Output_8_BOW.png)<br><br>
-
-**Models accuracy :**<br>
-![](/Images/Output_9_Models_Accuracy.png)<br>
 
 <!-- REFERENCES -->
 ## <br>**References**
