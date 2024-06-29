@@ -65,17 +65,6 @@ Finally we evaluate the model by getting accuracy score .
    python movie_reviews_sentiment_analysis.py
    ```
 
-<!-- OUTPUT -->
-## <br>**Output**
-Now let's see the project output after running the code :
-
-**Dataset head :**<br>
-![](/Images/dataset_head.png)<br><br>
-
-**Dataset distribution :**<br>
-![](/Images/Data_distrubtion.png)<br><br>
-
-
 <!-- REFERENCES -->
 ## <br>**References**
 These links may help you to better understanding of the project idea and techniques used :
